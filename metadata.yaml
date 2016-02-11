@@ -1,0 +1,31 @@
+_repo: Suorasanaisia-runoelmia_48209
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Suppanen, Adolf
+    - Aatto S.
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+creator:
+  author:
+    agent_name: Runeberg, Johan Ludvig
+    birthdate: 1804
+    deathdate: 1877
+    gutenberg_agent_id: '2842'
+    url: http://www.gutenberg.org/2009/agents/2842
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
+description: ''
+gutenberg_issued: '2015-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48209'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Suorasanaisia runoelmia
+url: http://www.gutenberg.org/ebooks/48209
